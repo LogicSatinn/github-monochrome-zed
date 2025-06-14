@@ -4,9 +4,6 @@ version = "0.0.1"
 schema_version = 1
 description = "Monochrome theme based on Sumi-e originating from Github light mode syntax highlighting."
 repository = "https://github.com/LogicSatinn/sumi-light-zed.git"
-authors = [
-	"Calvin Jackson <mailme.calvin@gmail.com>",
-	"Nishant Dahiya <nishant.dahiya2000@gmail.com>",
-]
+authors = ["Calvin Jackson <mailme.calvin@gmail.com>"]
 themes = ["themes/sumi-light.json"]
 languages = []
