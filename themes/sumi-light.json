@@ -1,9 +1,9 @@
 {
-	"name": "Github Light Monochrome",
+	"name": "Sumi Light",
 	"author": "Nishant Dahiya",
 	"themes": [
 		{
-			"name": "GitHub Light Monochrome",
+			"name": "Sumi Light",
 			"appearance": "light",
 			"style": {
 				"background.appearance": "opaque",

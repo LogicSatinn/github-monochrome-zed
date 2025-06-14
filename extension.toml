@@ -1,9 +1,12 @@
-id = "github-monochrome-theme"
-name = "GitHub Light Monochrome Theme"
+id = "sumi-light"
+name = "Sumi Light"
 version = "0.0.1"
 schema_version = 1
-description = "Monochrome theme based on Github light mode syntax highlighting "
-repository = "https://github.com/Nishantdd/github-monochrome-zed"
-authors = ["Nishant Dahiya <nishant.dahiya2000@gmail.com>"]
-themes = ["themes/github-light-monochrome.json"]
+description = "Monochrome theme based on Sumi-e originating from Github light mode syntax highlighting."
+repository = "https://github.com/LogicSatinn/sumi-light-zed.git"
+authors = [
+	"Calvin Jackson <mailme.calvin@gmail.com>",
+	"Nishant Dahiya <nishant.dahiya2000@gmail.com>",
+]
+themes = ["themes/sumi-light.json"]
 languages = []
